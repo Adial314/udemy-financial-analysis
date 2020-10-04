@@ -25,7 +25,7 @@ This repository contains:
 
 In the first section of the course, the simple and logarithmic rates of return (RORs) of investments are explored in detail as well as the rates of return for both portfolios and indices.
 
-Equiped with a basic understanding of upside potential, the course dives into financial risk management techniques in the second section using the standard deviations and variances of individual securities. In order to minimize the risk of an investment portfolio, the distinction between diversifiable and un-diversifiable risks is explored and risk is minimized in a portfolio using the covariance and correlation of its constituent securities.
+Equipped with a basic understanding of upside potential, the course dives into financial risk management techniques in the second section using the standard deviations and variances of individual securities. In order to minimize the risk of an investment portfolio, the distinction between diversifiable and un-diversifiable risks is explored and risk is minimized in a portfolio using the covariance and correlation of its constituent securities.
 
 Section three covers simple regression while section six covers multivariate regression for modeling complex systems such as the pricing of homes and other assets.
 
@@ -38,7 +38,7 @@ Finally, Monte Carlo analysis is demonstrated in section seven as a method for e
 
 ## Usage
 
-Install the requirements in a python environment using the included requirements file. Then navigate to the project directory
+Install the requirements in a python environment using the included requirements file. Then navigate to the project directory.
 
 ```sh
 pip install -r requirements.txt
